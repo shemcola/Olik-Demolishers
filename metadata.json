@@ -1,0 +1,7 @@
+{
+  "name": "OLIK- Demolishers ",
+  "description": "A premium web application for OLIK Demolishers, featuring advanced salvage tracking, AI-powered site audits, and a modern project gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
