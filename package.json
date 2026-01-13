@@ -15,10 +15,27 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@types/node": "^25.0.8",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
     "typescript": "~5.6.2",
     "vite": "^7.3.1"
-  }
+  },
+  "description": "OLIK Demolishers is a high-end digital portal for a specialized demolition and salvage firm based in Nairobi, Kenya. The platform focuses on precision manual dismantling, architectural salvage, and AI-driven structural audits.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://shemcola:PASTE_NEW_TOKEN_HERE@github.com/shemcola/Olik-Demolishers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shemcola/Olik-Demolishers/issues"
+  },
+  "homepage": "https://github.com/shemcola/Olik-Demolishers#readme"
 }
