@@ -1,0 +1,7 @@
+{
+  "name": "OLIK Demolishers - Salvage & Deconstruction",
+  "description": "Nairobi's premier manual deconstruction and architectural salvage firm specializing in precision dismantling and high-value material recovery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
