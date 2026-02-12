@@ -1,18 +1,17 @@
-
 {
   "name": "olik-demolishers",
   "version": "1.0.0",
   "description": "Professional website for OLIK Demolishers featuring AI Site Intelligence.",
-  "main": "index.tsx",
+  "type": "module",
   "scripts": {
-    "start": "echo 'Standard static hosting detected. Serving via browser ESM.'"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
   },
-  "keywords": [
-    "demolition",
-    "salvage",
-    "ai",
-    "nairobi"
-  ],
-  "author": "Oliver",
-  "license": "MIT"
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "vite": "^7.3.1"
+  }
 }
