@@ -1,11 +1,17 @@
+
 {
   "version": 2,
   "cleanUrls": true,
-  "framework": "vite",
-  "rewrites": [
+  "framework": null,
+  "installCommand": "echo 'No install needed'",
+  "buildCommand": "echo 'No build needed'",
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
